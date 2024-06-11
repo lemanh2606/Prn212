@@ -1,0 +1,45 @@
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\ROG\Documents\FPT University\OJT_NET07\LeThanhTung_NET1714_A01\DAL\bin\Debug\net6.0\appsettings.json
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\bin\Debug\net6.0\appsettings.json
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\bin\Debug\net6.0\DAL.dll
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\bin\Debug\net6.0\DAL.pdb
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.dll
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.pdb
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\PRN212\FUMiniHotelManagement-Dev\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\PRN212\LeChiManh_HE176152\DAL\bin\Debug\net6.0\appsettings.json
+E:\PRN212\LeChiManh_HE176152\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\PRN212\LeChiManh_HE176152\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\PRN212\LeChiManh_HE176152\DAL\bin\Debug\net6.0\DAL.dll
+E:\PRN212\LeChiManh_HE176152\DAL\bin\Debug\net6.0\DAL.pdb
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.dll
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.pdb
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\PRN212\LeChiManh_HE176152\DAL\obj\Debug\net6.0\ref\DAL.dll
